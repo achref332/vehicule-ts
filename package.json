@@ -1,0 +1,13 @@
+{
+  "name": "vehicule-ts",
+  "version": "1.0.0",
+  "description": "Projet TypeScript avec interface Vehicule et classe Voiture",
+  "main": "dist/vehicule.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/vehicule.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.0"
+  }
+}
